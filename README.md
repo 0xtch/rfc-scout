@@ -1,5 +1,7 @@
 # rfc-scout
 
+> 🚧 Work in progress.
+
 ## How to run
 
 Run all commands from the project root.
